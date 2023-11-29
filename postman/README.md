@@ -27,7 +27,7 @@ This is a postman collection project with different test cases using dummy finte
 ```npm start```
 
 ## Report
-![11](https://github.com/Joy097/SQA/assets/69787432/bd28d1da-6fa4-4505-9e10-96a8eb80d9a5)
+![123](https://github.com/Joy097/SQA/assets/69787432/94782dc2-4375-4f02-a87b-b62e264343eb)
 
-![screencapture-127-0-0-1-5500-postman-Reports-report-html-2023-11-29-01_07_55](https://github.com/Joy097/SQA/assets/69787432/49a3fdaa-5191-4e81-a848-4711034f7227)
+![1234](https://github.com/Joy097/SQA/assets/69787432/ee7a6c43-2137-483a-abac-e0127e029a8c)
 
