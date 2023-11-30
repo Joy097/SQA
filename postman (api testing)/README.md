@@ -26,6 +26,7 @@ This is a postman collection project with different test cases using dummy finte
 3. Start the project by writing:   
 ```npm start```
 
+## Standard Test Cases
 
 
 ## Report
