@@ -26,6 +26,8 @@ This is a postman collection project with different test cases using dummy finte
 3. Start the project by writing:   
 ```npm start```
 
+
+
 ## Report
 ![123](https://github.com/Joy097/SQA/assets/69787432/94782dc2-4375-4f02-a87b-b62e264343eb)
 
