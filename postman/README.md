@@ -31,3 +31,5 @@ This is a postman collection project with different test cases using dummy finte
 
 ![screencapture-127-0-0-1-5500-postman-Reports-report-html-2023-11-30-07_06_52](https://github.com/Joy097/SQA/assets/69787432/67a81fe4-408f-47e8-b07f-57e5dbab0f8a)
 
+## Documentation Link
+https://documenter.getpostman.com/view/25638973/2s9YeHYqMu
