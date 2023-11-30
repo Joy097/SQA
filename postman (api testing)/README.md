@@ -34,4 +34,4 @@ This is a postman collection project with different test cases using dummy finte
 ## Documentation Link
 https://documenter.getpostman.com/view/25638973/2s9YeHYqMu
 
-## 
+## Detected Issues
