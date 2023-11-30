@@ -29,5 +29,5 @@ This is a postman collection project with different test cases using dummy finte
 ## Report
 ![123](https://github.com/Joy097/SQA/assets/69787432/94782dc2-4375-4f02-a87b-b62e264343eb)
 
-![1234](https://github.com/Joy097/SQA/assets/69787432/ee7a6c43-2137-483a-abac-e0127e029a8c)
+![screencapture-127-0-0-1-5500-postman-Reports-report-html-2023-11-30-07_06_52](https://github.com/Joy097/SQA/assets/69787432/67a81fe4-408f-47e8-b07f-57e5dbab0f8a)
 
