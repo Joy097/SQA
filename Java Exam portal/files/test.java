@@ -1,4 +1,4 @@
-import org.json.simple.*;
+import org.json.simple.parser.JSONParser;
 
 public class test {
     public static void test(String[] args) {
