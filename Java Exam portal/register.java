@@ -1,6 +1,10 @@
 import java.util.Scanner;
+import org.json.simple.JSONObject;
+
 public class register {
     static Scanner scanner = new Scanner(System.in);
+    JSONObject json = new JSONObject();
+    
     public void register() {
         //input
         System.out.println("Give your username: ");
