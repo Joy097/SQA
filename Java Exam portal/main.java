@@ -13,9 +13,9 @@ public class main {
         String response = scanner.nextLine().trim();
 
         if (response.equalsIgnoreCase("login")) {
-            System.out.println("loggedin-------------");
             //verify username and password
             lg.login();
+            System.out.println("loggedin-------------");
             //if user's role is admin > create question
             //if user's role is user > give quiz
             // Call your login method here if needed
