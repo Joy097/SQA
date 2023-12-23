@@ -48,8 +48,14 @@ public class exam {
     }
 
     public void marks(int score){
-        switch(score){
-            case (score>8)
+        if(score>8){
+
+        }
+        if(score>8){
+
+        }
+        if(score>8){
+
         }
     }
 
