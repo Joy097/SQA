@@ -49,16 +49,16 @@ public class exam {
 
     public void marks(int score){
         if(score>=8){
-
+            System.out.println("Excellent! You have got " +score+ " out of 10");
         }
         else if(score>=5){
-
+            System.out.println("Excellent! You have got " +score+ " out of 10");
         }
         else if(score>=2){
-
+            System.out.println("Excellent! You have got " +score+ " out of 10");
         }
         else{
-            
+            System.out.println("Excellent! You have got " +score+ " out of 10");
         }
     }
 
