@@ -35,6 +35,7 @@ public class exam {
                 }
 
             }
+            marks(score);
             System.out.println("Your score is: "+score);
             System.out.println("Do you want to give another exam?(y/n):");
             String resp = scanner.nextLine().trim();
@@ -44,6 +45,10 @@ public class exam {
         }
 
 
+    }
+
+    public void marks(int score){
+        switch(score)
     }
 
     private static JSONArray readJson(String filename) {
