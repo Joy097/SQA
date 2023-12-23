@@ -52,13 +52,13 @@ public class exam {
             System.out.println("Excellent! You have got " +score+ " out of 10");
         }
         else if(score>=5){
-            System.out.println("Excellent! You have got " +score+ " out of 10");
+            System.out.println("Good! You have got " +score+ " out of 10");
         }
         else if(score>=2){
-            System.out.println("Excellent! You have got " +score+ " out of 10");
+            System.out.println("Very Poor! You have got " +score+ " out of 10");
         }
         else{
-            System.out.println("Excellent! You have got " +score+ " out of 10");
+            System.out.println("Very Sorry you are failed! You have got " +score+ " out of 10");
         }
     }
 
