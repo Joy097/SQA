@@ -48,14 +48,17 @@ public class exam {
     }
 
     public void marks(int score){
-        if(score>8){
+        if(score>=8){
 
         }
-        if(score>8){
+        else if(score>=5){
 
         }
-        if(score>8){
+        else if(score>=2){
 
+        }
+        else{
+            
         }
     }
 
