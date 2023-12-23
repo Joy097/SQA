@@ -48,7 +48,9 @@ public class exam {
     }
 
     public void marks(int score){
-        switch(score)
+        switch(score){
+            case (score>8)
+        }
     }
 
     private static JSONArray readJson(String filename) {
